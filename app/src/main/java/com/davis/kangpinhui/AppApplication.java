@@ -12,6 +12,7 @@ public class AppApplication extends Application {
      */
     private static AppApplication instance = null;
 
+
     public static AppApplication getApplication()
     {
         return instance;
